@@ -1,0 +1,12 @@
+C:\dev\clear\repos\BestHB\BestHB.Repository\bin\Debug\netcoreapp2.2\BestHB.Repository.deps.json
+C:\dev\clear\repos\BestHB\BestHB.Repository\bin\Debug\netcoreapp2.2\BestHB.Repository.dll
+C:\dev\clear\repos\BestHB\BestHB.Repository\bin\Debug\netcoreapp2.2\BestHB.Repository.pdb
+C:\dev\clear\repos\BestHB\BestHB.Repository\obj\Debug\netcoreapp2.2\BestHB.Repository.csproj.CoreCompileInputs.cache
+C:\dev\clear\repos\BestHB\BestHB.Repository\obj\Debug\netcoreapp2.2\BestHB.Repository.AssemblyInfoInputs.cache
+C:\dev\clear\repos\BestHB\BestHB.Repository\obj\Debug\netcoreapp2.2\BestHB.Repository.AssemblyInfo.cs
+C:\dev\clear\repos\BestHB\BestHB.Repository\obj\Debug\netcoreapp2.2\BestHB.Repository.dll
+C:\dev\clear\repos\BestHB\BestHB.Repository\obj\Debug\netcoreapp2.2\BestHB.Repository.pdb
+C:\dev\clear\repos\BestHB\BestHB.Repository\obj\Debug\netcoreapp2.2\BestHB.Repository.csprojAssemblyReference.cache
+C:\dev\clear\repos\BestHB\BestHB.Repository\bin\Debug\netcoreapp2.2\BestHB.Domain.dll
+C:\dev\clear\repos\BestHB\BestHB.Repository\bin\Debug\netcoreapp2.2\BestHB.Domain.pdb
+C:\dev\clear\repos\BestHB\BestHB.Repository\obj\Debug\netcoreapp2.2\BestHB.Repository.csproj.CopyComplete

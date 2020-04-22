@@ -1,0 +1,17 @@
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\BestHB.Tests.deps.json
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\BestHB.Tests.runtimeconfig.json
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\BestHB.Tests.runtimeconfig.dev.json
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\BestHB.Tests.dll
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\BestHB.Domain.dll
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\BestHB.Domain.pdb
+C:\dev\clear\repos\BestHB\BestHB.Tests\obj\Debug\netcoreapp2.2\BestHB.Tests.csprojAssemblyReference.cache
+C:\dev\clear\repos\BestHB\BestHB.Tests\obj\Debug\netcoreapp2.2\BestHB.Tests.csproj.CoreCompileInputs.cache
+C:\dev\clear\repos\BestHB\BestHB.Tests\obj\Debug\netcoreapp2.2\BestHB.Tests.AssemblyInfoInputs.cache
+C:\dev\clear\repos\BestHB\BestHB.Tests\obj\Debug\netcoreapp2.2\BestHB.Tests.AssemblyInfo.cs
+C:\dev\clear\repos\BestHB\BestHB.Tests\obj\Debug\netcoreapp2.2\BestHB.Tests.csproj.CopyComplete
+C:\dev\clear\repos\BestHB\BestHB.Tests\bin\Debug\netcoreapp2.2\BestHB.Tests.pdb
+C:\dev\clear\repos\BestHB\BestHB.Tests\obj\Debug\netcoreapp2.2\BestHB.Tests.dll
+C:\dev\clear\repos\BestHB\BestHB.Tests\obj\Debug\netcoreapp2.2\BestHB.Tests.pdb

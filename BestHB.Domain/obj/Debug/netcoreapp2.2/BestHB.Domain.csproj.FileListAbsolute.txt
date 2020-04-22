@@ -1,0 +1,9 @@
+C:\dev\clear\repos\BestHB\BestHB.Domain\bin\Debug\netcoreapp2.2\BestHB.Domain.deps.json
+C:\dev\clear\repos\BestHB\BestHB.Domain\bin\Debug\netcoreapp2.2\BestHB.Domain.dll
+C:\dev\clear\repos\BestHB\BestHB.Domain\bin\Debug\netcoreapp2.2\BestHB.Domain.pdb
+C:\dev\clear\repos\BestHB\BestHB.Domain\obj\Debug\netcoreapp2.2\BestHB.Domain.csproj.CoreCompileInputs.cache
+C:\dev\clear\repos\BestHB\BestHB.Domain\obj\Debug\netcoreapp2.2\BestHB.Domain.AssemblyInfoInputs.cache
+C:\dev\clear\repos\BestHB\BestHB.Domain\obj\Debug\netcoreapp2.2\BestHB.Domain.AssemblyInfo.cs
+C:\dev\clear\repos\BestHB\BestHB.Domain\obj\Debug\netcoreapp2.2\BestHB.Domain.dll
+C:\dev\clear\repos\BestHB\BestHB.Domain\obj\Debug\netcoreapp2.2\BestHB.Domain.pdb
+C:\dev\clear\repos\BestHB\BestHB.Domain\obj\Debug\netcoreapp2.2\BestHB.Domain.csprojAssemblyReference.cache
