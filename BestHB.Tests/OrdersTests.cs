@@ -37,16 +37,18 @@ namespace BestHB.Tests
             };
 
             
-            var instrumentInfoRepositoryMock = new Mock<IInstrumentInfoRepository>();
+            var instrumentInfoRepositoryMock = new Mock<IRepository>();
+
             instrumentInfoRepositoryMock.Setup(i => i.Get(It.IsAny<string>())).ReturnsAsync(instrumentInfo);
 
-            var orderRepositoryMock = new Mock<IOrderRepository>();
+            var orderRepositoryMock = new Mock<IRepository>();
 
             var message = string.Empty;
 
             try
             {
                 var orderService = new OrderService(orderRepositoryMock.Object, instrumentInfoRepositoryMock.Object);
+                
                 orderService.Create(command);
             }
             catch(Exception ex)
@@ -54,7 +56,7 @@ namespace BestHB.Tests
                 message = ex.Message;
             }
 
-            Assert.AreEqual("Quantidade inválida.", message);
+            Assert.AreEqual("Quantidade invï¿½lida.", message);
         }
     }
 }
