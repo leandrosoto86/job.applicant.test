@@ -8,10 +8,11 @@ using System.Threading.Tasks;
 
 namespace BestHB.Repository
 {
-    public class OrderRepository : IOrderRepository
+    public class OrderRepository : IRepository
     {
         public OrderRepository()
         {
+
         }
 
         public async Task<int> Add(Order order)
@@ -22,6 +23,11 @@ namespace BestHB.Repository
         public async Task<List<Order>> Get(QueryOrders queryOrders)
         {
             return await Task.Run(() => { return new List<Order>(); });
+        }
+
+        public Task<InstrumentInfo> Get(string symbol)
+        {
+            throw  new NotImplementedException();
         }
     }
 }

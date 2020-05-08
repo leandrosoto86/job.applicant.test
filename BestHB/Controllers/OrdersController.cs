@@ -7,15 +7,17 @@ using BestHB.Domain.Queries;
 using BestHB.Domain.Repositories;
 using BestHB.Domain.Service;
 using Microsoft.AspNetCore.Mvc;
+using BestHB.Domain.Services;
 
 namespace BestHB.Controllers
 {
     [Route("api/orders")]
     public class OrdersController : Controller
     {
-        public readonly IOrderService _orderService;
-        private readonly IOrderRepository _orderRepository;
-        public OrdersController(IOrderService orderService, IOrderRepository orderRepository)
+        public readonly OrderService _orderService;
+        private readonly IRepository _orderRepository;
+
+        public OrdersController(OrderService orderService, IRepository orderRepository)
         {
             _orderService = orderService;
             _orderRepository = orderRepository;

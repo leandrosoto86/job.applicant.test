@@ -3,13 +3,20 @@ using BestHB.Domain.Repositories;
 using BestHB.Repository.InMemory;
 using System;
 using System.Threading.Tasks;
+using BestHB.Domain.Queries;
+using System.Collections.Generic;
 
 namespace BestHB.Repository
 {
-    public class InstrumentInfoRepository : IInstrumentInfoRepository
+    public class InstrumentInfoRepository : IRepository
     {
         public InstrumentInfoRepository()
         {
+        }
+
+        public Task<int> Add(Order order)
+        {
+            throw new NotImplementedException();
         }
 
         public async Task<InstrumentInfo> Get(string symbol)
@@ -38,6 +45,11 @@ namespace BestHB.Repository
             }
 
             return instrumentInfo;
+        }
+
+        public Task<List<Order>> Get(QueryOrders queryOrders)
+        {
+            throw new NotImplementedException();
         }
     }
 }

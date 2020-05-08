@@ -8,8 +8,9 @@ namespace BestHB.Controllers
     [Route("api/instrument")]
     public class InstrumentController : Controller
     {
-        private readonly IInstrumentInfoRepository _instrumentInfoRepository;
-        public InstrumentController(IInstrumentInfoRepository instrumentInfoRepository)
+        private readonly IRepository _instrumentInfoRepository;
+
+        public InstrumentController(IRepository instrumentInfoRepository)
         {
             _instrumentInfoRepository = instrumentInfoRepository;
         }

@@ -23,8 +23,8 @@ namespace BestHB
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<IOrderService, OrderService>();
-            services.AddTransient<IInstrumentInfoRepository, InstrumentInfoRepository>();
-            services.AddTransient<IOrderRepository, OrderRepository>();
+            services.AddTransient<IRepository, InstrumentInfoRepository>();
+            services.AddTransient<IRepository, OrderRepository>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
