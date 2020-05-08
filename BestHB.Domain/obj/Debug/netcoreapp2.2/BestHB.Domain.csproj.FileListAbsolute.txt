@@ -7,11 +7,11 @@ C:/dev/clear/repos/BestHB/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.As
 C:/dev/clear/repos/BestHB/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.dll
 C:/dev/clear/repos/BestHB/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.pdb
 C:/dev/clear/repos/BestHB/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.csprojAssemblyReference.cache
+/Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.AssemblyInfoInputs.cache
+/Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.AssemblyInfo.cs
+/Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.csprojAssemblyReference.cache
 /Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/bin/Debug/netcoreapp2.2/BestHB.Domain.deps.json
 /Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/bin/Debug/netcoreapp2.2/BestHB.Domain.dll
 /Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/bin/Debug/netcoreapp2.2/BestHB.Domain.pdb
-/Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.csprojAssemblyReference.cache
-/Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.AssemblyInfoInputs.cache
-/Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.AssemblyInfo.cs
 /Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.dll
 /Users/italosantana/Desktop/job.applicant.test/BestHB.Domain/obj/Debug/netcoreapp2.2/BestHB.Domain.pdb

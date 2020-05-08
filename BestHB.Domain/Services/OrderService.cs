@@ -13,15 +13,15 @@ namespace BestHB.Domain.Services
 {
     public class OrderService : IOrderService
     {
-        private readonly IOrderRepository _orderRepository;
-        private readonly IInstrumentInfoRepository _instrumentInfoRepository;
+        private readonly IRepository _orderRepository;
+        private readonly IRepository _instrumentInfoRepository;
 
         private readonly OrderType[] _ordersThatShouldHaveExpireDate = new OrderType[] {
             OrderType.Limit,
             OrderType.Stop
         };
 
-        public OrderService(IOrderRepository orderRepository, IInstrumentInfoRepository instrumentInfoRepository)
+        public OrderService(IRepository orderRepository, IRepository instrumentInfoRepository)
         {
             _orderRepository = orderRepository;
             _instrumentInfoRepository = instrumentInfoRepository;
